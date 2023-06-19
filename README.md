@@ -14,7 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-%233049d3.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23808bb6.svg?style=for-the-badge&logo=php&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-%232f74c0.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/GO-%2368d0da.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <details>
   <summary>
@@ -31,7 +32,6 @@
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Lumen](https://img.shields.io/badge/lumen-%23d94134.svg?style=for-the-badge&logo=lumen&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -45,7 +45,8 @@
   ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue.svg?style=for-the-badge&logo=azure%20devops)
   ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=microsoft%20azure)
   ![Internet Explorer](https://img.shields.io/badge/Internet_Explorer-%231cb2e2.svg?style=for-the-badge&logo=internet%20explorer)
-
+  ![VUE JS](https://img.shields.io/badge/Vue%20JS-%233fb27f.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/CYPRESS-%235bcea3.svg?style=for-the-badge&logo=cypress&logoColor=white)
 </details>
 
 ### Socials
