@@ -1,12 +1,4 @@
-# Hey
-
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://raw.githubusercontent.com/YannickFuereder/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/YannickFuereder/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</a>
+# Helo
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,10 +40,5 @@
   ![VUE JS](https://img.shields.io/badge/Vue%20JS-%233fb27f.svg?style=for-the-badge&logo=vue.js&logoColor=white)
   ![Cypress](https://img.shields.io/badge/CYPRESS-%235bcea3.svg?style=for-the-badge&logo=cypress&logoColor=white)
 </details>
-
-### Socials
-
-[![MAL](https://img.shields.io/badge/My_Anime_List-%232d4e9d.svg?style=for-the-badge&logo=MyAnimeList)](https://myanimelist.net/profile/_Yannick_)
-[![Spotify](https://img.shields.io/badge/Spotify-black.svg?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/qzunfzre6q5yqrm4mkykjby24?si=2fd3a594a53f4301)
 
 [👑](https://open.spotify.com/track/1TpRk0wKjPGybTFPEQW0Sx?si=c051ecce5939480c)
